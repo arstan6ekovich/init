@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1200px;
+    background:  #0D162F
+}
+
+
+
+
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 400px;
+    font-size: 22px;
+    color: white;
+}
+
+.container h2 {
+    margin-left: 80px;
+    font-family: normal ;
+    margin-top: 20px;
+}
+
+.container1 button {
+background: #EE0505;
+height: 20px;
+padding: 20px;
+border-radius: 10px;
+color: white;
+border: none;
+margin-left: 760px;
+margin-top: 40px;
+}
+
+
+
+.img2 {
+position: absolute;
+    display: flex;
+justify-content: flex-end;
+margin-top: -570px;
+margin-left: 1580px;
+}
+
+
+
+.img3 {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    gap: 30px;
+    
+}
+
+
+.container5{
+    margin-left: 400px;
+    margin-top: -40px;
+    display: flex;
+    gap: 200px;
+   justify-content: space-between;
+   color: wheat;
+}
+
+.container6 { 
+    margin-top: 170px;
+    display: flex;
+    margin-left: 250px;
+}
+
+.container6 h2 {
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 20px;
+    color: wheat;
+}
+
+.container6 h3 {
+    font-family: normal;
+    color: wheat;
+    font-size: 20px;
+    width: 600px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+
+.container7 {
+    color: wheat;
+    width: 400px;
+    height: 100px;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+
+
